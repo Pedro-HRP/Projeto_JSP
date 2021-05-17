@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Teste de Dados em JSP</title>
+        <title>Dados</title>
     </head>
     <body>
         <h3>Cadastro do Item</h3>
